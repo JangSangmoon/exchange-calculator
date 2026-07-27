@@ -12,13 +12,13 @@
   "description": "여행지 물품 구매(특히 달러가격 표기품)에 대한 각국 환율 및 최종 원화가격 확인을 쉽게 해줍니다.",
 "icons": [
   {
-    "src": "./icon-192.png",
+    "src": "icon-192.png",
     "sizes": "192x192",
     "type": "image/png",
     "purpose": "any maskable"
   },
   {
-    "src": "./icon-512.png",
+    "src": "icon-512.png",
     "sizes": "512x512",
     "type": "image/png",
     "purpose": "any maskable"
